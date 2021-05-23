@@ -11,7 +11,7 @@
 
 ## 
 
-<a href="https://github.com/Renc17/Renc17/files/6528990/Resume.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="resume"></a>
+<a href="https://drive.google.com/file/d/1KSiGBjHULObBrfyDAWFeGJ67RfnxLBbN/view?usp=sharing" class="image fit"><img src="images/marr_pic.jpg" alt="resume"></a>
 
 <p align="center">
 I'm Rena, Software Engineer currently living in Athens, Greece. I'm an undergraduate student in Computer Science at University of Athens. 
