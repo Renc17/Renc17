@@ -11,7 +11,7 @@
 
 ## 
 
-[![Drive Badge](https://img.shields.io/badge/Resume-100000?style=for-the-badge&logoColor=white)](https://github.com/ma-shamshiri)
+[![Drive Badge](https://img.shields.io/badge/Resume-100000?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1KSiGBjHULObBrfyDAWFeGJ67RfnxLBbN/view?usp=sharing)
 
 <p align="center">
 I'm Rena, Software Engineer currently living in Athens, Greece. I'm an undergraduate student in Computer Science at University of Athens. 
