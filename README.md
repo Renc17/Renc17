@@ -10,7 +10,7 @@
 
 ## 
 
-<a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="resume"></a>
 
 <p align="center">
 I'm Rena, Software Engineer currently living in Athens, Greece. I'm an undergraduate student in Computer Science at University of Athens. 
