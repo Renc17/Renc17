@@ -6,5 +6,7 @@
   <img src="https://user-images.githubusercontent.com/57152951/119277567-2546a580-bc29-11eb-9953-cbe1462c189c.png" width="240" height="300"/>
 </div>
 
+## 
+
 I'm Rena, Software Engineer currently living in Athens, Greece. I'm an undergraduate student in Computer Science at University of Athens. 
 I also love to take photos on my free time!
