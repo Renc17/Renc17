@@ -4,5 +4,10 @@
 ![image](https://user-images.githubusercontent.com/57152951/119277561-1f50c480-bc29-11eb-9444-8018d7da571c.png)
 ![image](https://user-images.githubusercontent.com/57152951/119277567-2546a580-bc29-11eb-9953-cbe1462c189c.png)
 
+
+[Resume.pdf](https://github.com/Renc17/Renc17/files/6528968/Resume.pdf)
+
+
+
 I'm Rena, Software Engineer currently living in Athens, Greece. I'm an undergraduate student in Computer Science at University of Athens. 
 I also love to take photos on my free time!
