@@ -11,7 +11,7 @@
 
 ## 
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ma-shamshiri)
+[![Drive Badge](https://img.shields.io/badge/Drive-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ma-shamshiri)
 [![GitHub Badge](https:/img.shields.io/badge/-Resume-black)](https://drive.google.com/file/d/1KSiGBjHULObBrfyDAWFeGJ67RfnxLBbN/view?usp=sharing)
 
 <p align="center">
