@@ -11,7 +11,7 @@
 
 ## 
 
-<a href="https://drive.google.com/file/d/1KSiGBjHULObBrfyDAWFeGJ67RfnxLBbN/view?usp=sharing" class="image fit"><img src="images/marr_pic.jpg" alt="resume"></a>
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://drive.google.com/file/d/1KSiGBjHULObBrfyDAWFeGJ67RfnxLBbN/view?usp=sharing)
 
 <p align="center">
 I'm Rena, Software Engineer currently living in Athens, Greece. I'm an undergraduate student in Computer Science at University of Athens. 
