@@ -10,7 +10,7 @@
 
 ## 
 
-[![Drive Badge](https://img.shields.io/badge/Resume-100000?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1TzXv0BSvUhFsxacM3UTNa_12fIoX4k_F/view?usp=sharing)
+[![Drive Badge](https://img.shields.io/badge/Resume-100000?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1CmuZA2Fc6HtnbjrdniTvTErS33G3a42b/view?usp=sharing)
 
 <p align="center">
 I'm Rena, Software Engineer currently living in Athens, Greece. I'm an undergraduate student in Computer Science at University of Athens. 
