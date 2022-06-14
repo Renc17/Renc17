@@ -1,18 +1,5 @@
 
-## 
+Hi 👋 there
+=====================I have really found a passion for backend development* 🌍  I'm based in Athens, Greece* ✉️  You can contact me at [rtsagka@gmail.com](mailto:rtsagka@gmail.com)* 🧠  I'm learning about open-source contribution* 🤝  I'm open to collaborating on TypeScript, PHP & Python Projects
 
-<div float="left" top=1>
-  <img src="https://user-images.githubusercontent.com/57152951/119277530-fe886f00-bc28-11eb-8b9c-5b9ff8fd75ea.png" width="25%" height="300"/>
-  <img src="https://user-images.githubusercontent.com/57152951/119277536-05af7d00-bc29-11eb-8adc-35d30722bec3.png" width="25%" height="300"/> 
-  <img src="https://user-images.githubusercontent.com/57152951/119277561-1f50c480-bc29-11eb-9444-8018d7da571c.png" width="25%" height="300"/>
-  <img src="https://user-images.githubusercontent.com/57152951/119277567-2546a580-bc29-11eb-9953-cbe1462c189c.png" width="25%" height="300"/>
-</div>
-
-## 
-
-<!--[![Drive Badge](https://img.shields.io/badge/Resume-100000?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1CmuZA2Fc6HtnbjrdniTvTErS33G3a42b/view?usp=sharing)-->
-
-<p align="center">
-I'm Rena, Software Engineer currently living in Athens, Greece. I'm an undergraduate student in Computer Science at University of Athens. 
-I also love to take photos during my free time!
-</p>
+### Socials<p align="left"> <a href="https://discord.com/users/renc#5391" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Renc17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tsagkaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
