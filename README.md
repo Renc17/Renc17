@@ -3,11 +3,11 @@ Hi There 👋
 
 I have really found a passion for backend development
 
-*   🌍  I'm based in Athens, Greece
+*   🌍  I'm based in Athens, Greece
 *   🖥️  See my portfolio at [renc17.github.io](http://renc17.github.io/)
-*   ✉️  You can contact me at [rtsagka@gmail.com](mailto:rtsagka@gmail.com)
-*   🧠  I'm learning about open-source contribution
-*   🤝  I'm open to collaborating on TypeScript, PHP & Python Projects
+*   ✉️  You can contact me at [rtsagka@gmail.com](mailto:rtsagka@gmail.com)
+*   🧠  I'm learning about open-source contribution
+*   🤝  I'm open to collaborating on TypeScript, PHP & Python Projects
 
 ### Socials
                   
